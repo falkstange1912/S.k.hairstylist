@@ -14,12 +14,12 @@ import {
 
 const CONFIG = {
   topBarText: "✂️ INDIVIDUALISIERT & PROFESSIONELL: DER ENTWURF FÜR DEIN PROJEKT",
-  brandName: "SALON SCHNITTPUNKT",
+  brandName: "S.K.HAIRSTYLIST",
   brandSubtitle: "HAIRSTYLING & HAIRSPA",
   badgeText: "EXKLUSIVER DESIGN-ENTWURF",
   headlinePart1: "Perfekter Look. ",
   headlinePart2: "Digital organisiert.",
-  subheadline: "Ein maßgeschneidertes, digitales System für den Salon Schnittpunkt. Entwickelt, um erstklassiges Hairstyling online erlebbar zu machen, neue Talente für das Team zu begeistern und die Terminbuchung komplett zu digitalisieren.",
+  subheadline: "Ein maßgeschneidertes, digitales System für s.k.Hairstylist. Entwickelt, um erstklassiges Hairstyling online erlebbar zu machen, neue Talente für das Team zu begeistern und die Terminbuchung komplett zu digitalisieren.",
   primaryCtaText: "Funktionen testen",
   secondaryCtaText: "Direkt-Kontakt",
   imageUrl: "/bild.jpg" 
@@ -203,7 +203,7 @@ export default function App() {
                   <span className="w-2.5 h-2.5 rounded-full bg-neutral-200" />
                 </div>
                 <div className="text-[9px] font-mono text-neutral-400 bg-neutral-50 px-3 py-0.5 border border-neutral-200/60 rounded-md">
-                  salon-schnittpunkt-entwurf.de
+                  sk-hairstylist-entwurf.de
                 </div>
                 <ChevronRight className="w-3 h-3 text-neutral-300" />
               </div>
@@ -275,7 +275,7 @@ export default function App() {
                 </div>
                 <h3 className="text-lg font-bold">Hinweis zum Prototyp</h3>
                 <p className="text-neutral-500 text-xs leading-relaxed">
-                  Dieses System befindet sich im exklusiven Demo-Modus für den Salon Schnittpunkt. Nach der Freischaltung werden alle Online-Terminkalender, Stylisten-Auswahlen und Kurzbewerbungen voll funktionsfähig hinterlegt.
+                  Dieses System befindet sich im exklusiven Demo-Modus für s.k.Hairstylist. Nach der Freischaltung werden alle Online-Terminkalender, Stylisten-Auswahlen und Kurzbewerbungen voll funktionsfähig hinterlegt.
                 </p>
                 
                 <div className="p-3.5 bg-neutral-50 rounded-xl border border-neutral-200 text-left font-mono text-[10px] text-neutral-500 space-y-1">
